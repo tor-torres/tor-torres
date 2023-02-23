@@ -1,6 +1,8 @@
-<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" style="width:50px; height:50px;">   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=code+pro&weight=500&pause=1000&color=1FF748&width=435&lines=I'm+Rannel+Torres;an+aspiring+web+developer;from+Philippines)](https://git.io/typing-svg)
+<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" style="width:50px; height:50px;">   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF738&vCenter=true&width=435&lines=Hi!+I'm+Rannel+Torres;Just+call+me+Tor+for+short;23+years+old;from+Negros%2C+Occidental;Philippines)](https://git.io/typing-svg)
 
-Hi there! My name is **Rannel E. Torres** and I am an aspiring web developer from the Philippines. I have always been interested in programming and have spent the last few years learning as much as I can about web development. I am constantly learning and improving my skills, and I am excited to start my career in this field. In my free time, I enjoy playing video games, reading.
+"Programming is not just about coding, it's about constantly learning, innovating, and creating solutions to make the world a better place."
+
+Hi there! My name is **Rannel E. Torres** and I am an aspiring web developer from the Philippines. I have always been interested in programming and have spent the last few years learning as much as I can about web development. I am constantly learning and improving my skills, and I am excited to start my career in this field. In my free time, I enjoy playing video games, and reading.
 _____
 
 [![](https://img.shields.io/badge/Gmail-eranneltorres@gmail.com-red)](mailto:eranneltorres@gmail.com)
