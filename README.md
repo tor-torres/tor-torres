@@ -2,7 +2,6 @@
 
 "Programming is not just about coding, it's about constantly learning, innovating, and creating solutions to make the world a better place."
 
-Hi there! My name is **Rannel E. Torres** and I am an aspiring web developer from the Philippines. I have always been interested in programming and have spent the last few years learning as much as I can about web development. I am constantly learning and improving my skills, and I am excited to start my career in this field. In my free time, I enjoy playing video games, and reading.
 _____
 
 [![](https://img.shields.io/badge/Gmail-eranneltorres@gmail.com-red)](mailto:eranneltorres@gmail.com)
