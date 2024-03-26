@@ -1,4 +1,4 @@
-<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" style="width:50px; height:50px;">   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF738&vCenter=true&width=435&lines=Hi!+I'm+Rannel+Torres;Just+call+me+Tor+for+short;23+years+old;from+Negros%2C+Occidental;Philippines)](https://git.io/typing-svg)
+<h1>Rannel Torres</h1>
 
 "Programming is not just about coding, it's about constantly learning, innovating, and creating solutions to make the world a better place."
 
